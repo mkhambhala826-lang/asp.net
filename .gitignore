@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages (restore from packages.config)
+packages/
+
+# Local database files (do not publish personal/test records)
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Logs and temporary files
+*.log
+*.tmp
